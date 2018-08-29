@@ -6,10 +6,11 @@ title: The Gofrs
 
 {{% imagehref href="https://github.com/ashleymcnamara/gophers" filename="go_build.png" width="30%" %}}
 
-The Gofrs is a community-formed group working together to better the entire Go
-ecosystem. Some of these efforts include picking up the maintenance of projects
-that are widely used or have large impact, as well as to consider new solutions
-to problems that arise as the number of Go programmers continues to grow.
+The Gofrs (pronounced Gophers) is a community-formed group working together to
+better the entire Go ecosystem. Some of these efforts include picking up the
+maintenance of projects that are widely used or have large impact, as well as to
+consider new solutions to problems that arise as the number of Go programmers
+continues to grow.
 
 We initially formed in the summer of 2018 to take one of the most popular UUID
 packages in the Go ecosystem,
