@@ -38,7 +38,7 @@ enableGitInfo = true
 
 [[menu.shortcuts]]
 pre = "<h3>More</h3>"
-name = "<i class='fa fa-github'></i> <label>Github Organization</label>"
+name = "<i class='fa fa-github'></i> Github Organization"
 identifier = "go"
 url = "https://github.com/gofrs"
 weight = 10
